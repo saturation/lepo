@@ -1,3 +1,3 @@
 lepo
 ====
-Simple rest client using es6 proxy 
+Simple rest client. Uses es6 proxy. No production stuff yet.
